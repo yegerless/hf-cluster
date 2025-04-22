@@ -5,6 +5,8 @@
 *.np
 data/
 
+umap_plots/
+
 ### macOS ###
 # General
 .DS_Store
