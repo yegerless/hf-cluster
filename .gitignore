@@ -6,6 +6,7 @@
 data/
 
 umap_plots/
+kmeans_plots/
 
 ### macOS ###
 # General
